@@ -60,6 +60,9 @@ type AllCurrencies map[string]float64
 // LocalizationItem map all locale (en, zh) into respective string
 type LocalizationItem map[string]string
 
+// PlatformItem map all platform with address string
+type PlatformItem map[string]string
+
 // TYPES
 
 // DescriptionItem map all description (in locale) into respective string
